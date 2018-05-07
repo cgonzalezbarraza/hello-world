@@ -1,2 +1,3 @@
 # hello-world
 primer repositorio de prueba desde el tutorial
+Claudio González, programando desde 1994...
